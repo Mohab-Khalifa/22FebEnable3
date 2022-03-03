@@ -2,5 +2,5 @@ print("Hello World")
 print("goodbye")
 print("More Stuff")
 print("A fourth line")
-something1
-something different
+print("something1")
+print("something different")
